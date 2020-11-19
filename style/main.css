@@ -1,15 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
-
 body {
-    background-color: #333130;
+    background-color: #4C566A;
 }
 
-h1 {
-    Position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-    font-family: 'Merriweather', serif;
-    color: antiquewhite;
-}
+.wrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

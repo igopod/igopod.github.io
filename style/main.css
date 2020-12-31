@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 body {
-    background-color: #4C566A;
+    background: black;
+    /* background-color: #4C566A; */
 }
 
 .wrapper {
@@ -10,3 +11,10 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+
+.mainimg {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

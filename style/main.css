@@ -1,8 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 body {
-    background: black;
+    margin: 0;
+    /* font-family: Merriweather; */
     /* background-color: #4C566A; */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.alpha {
+    color: #DC143C;
+}
+
+.underConstraction {
+    text-align: center;
+    text-decoration: dotted;
 }
 
 .wrapper {

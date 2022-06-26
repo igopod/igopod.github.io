@@ -1,2 +1,2 @@
-# lomtiq.github.io
-lomtiq.cc site
+# igopod.github.io
+igopod site
